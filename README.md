@@ -3,7 +3,8 @@
 
 ### Web Developer | Web Full Stack
 
-I'm a web developer from Morocco with a background in Digital Development – Web Full Stack. I enjoy building responsive websites and interactive web applications.
+I'm a web developer from Morocco with a background in Digital Development – Web Full Stack. I enjoy building responsive websites and interactive web applications, with a particular interest in frontend development and user-friendly design.
+
 
 - 💻 Interested in frontend development and web applications.
 - 🌱 Continuously improving my skills in web development.
