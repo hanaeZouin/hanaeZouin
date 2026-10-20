@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**hanaeZouin/hanaeZouin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hanae Zouin 👋
 
-Here are some ideas to get you started:
+### Web Developer | Web Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web developer from Morocco with a background in Digital Development – Web Full Stack. I enjoy building responsive websites and interactive web applications.
+
+- 💻 Interested in frontend development and web applications.
+- 🌱 Continuously improving my skills in web development.
+- 🛠️ Experienced with React, JavaScript, HTML, CSS, Laravel, PHP.
+- 🚀 Working on projects that combine functionality and user-friendly design.
+
+
+### 🧰 Technologies & Tools
+
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** PHP, Laravel  
+**Databases:** SQL, MySQL  
+**Currently Exploring:** Python, Django  
+**Tools:** Git, GitHub
+
+
+### 📌 Featured Projects
+
+More details about my projects are available in my repositories.
+
+### 📫 Contact
+
+- GitHub: [@hanaeZouin](https://github.com/hanaeZouin)
